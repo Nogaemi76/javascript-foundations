@@ -60,7 +60,7 @@ describe('Sphinx', () => {
   it('should accept a correct answer and remove riddle from list', () => {
     const sphinx = new Sphinx();
     const riddle1 = {
-      riddle: 'What word becomes shorter when you add two letters to it?', 
+      riddle: 'What word becomes shorter when you add two letters to .skip?', 
       answer: 'short'
     };
 
